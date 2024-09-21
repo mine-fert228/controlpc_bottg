@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\counter pupsik2.exe.config
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\counter pupsik2.exe
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\counter pupsik2.pdb
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\Telegram.Bot.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.Properties.Resources.resources
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.Fody.CopyLocal.cache
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\rat2.csproj.CopyComplete
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\counter pupsik2.exe
+C:\Users\User\Desktop\repos\tgmbot\rat2\obj\x86\Release\counter pupsik2.pdb
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\EntityFramework.xml
+C:\Users\User\Desktop\repos\tgmbot\rat2\bin\x86\Release\EntityFramework.SqlServer.xml

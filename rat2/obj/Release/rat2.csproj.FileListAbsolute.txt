@@ -1,0 +1,16 @@
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\Newtonsoft.Json.xml
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\Telegram.Bot.xml
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.csproj.AssemblyReference.cache
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.Properties.Resources.resources
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.csproj.GenerateResource.cache
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.csproj.CoreCompileInputs.cache
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.csproj.Fody.CopyLocal.cache
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\rat2.csproj.CopyComplete
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\counter pupsik2.exe.config
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\counter pupsik2.exe
+C:\Users\ewsee\source\repos\rat2\rat2\bin\Release\counter pupsik2.pdb
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\counter pupsik2.exe
+C:\Users\ewsee\source\repos\rat2\rat2\obj\Release\counter pupsik2.pdb
